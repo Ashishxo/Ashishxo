@@ -17,6 +17,8 @@
 
 ###
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,redux,nodejs,express,tailwind,c,cpp,py,mongodb,postgres,postman,git,github,arduino,figma)](https://skillicons.dev)
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
