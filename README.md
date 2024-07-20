@@ -11,6 +11,7 @@
 </div>
 
 ###
+<br>
 
 <h2 align="center">💻 Tech Stack</h2>
 
@@ -53,7 +54,7 @@
 </div>
 
 ###
-
+<br>
 <h2 align="center">💫 My Socials 💫</h2>
 
 ###
