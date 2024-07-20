@@ -1,8 +1,8 @@
-<h2 align="center">Hey There! 👋 Ashish Dhiwar Here!</h2>
+<h1 align="center">Hey There! 👋 Ashish Dhiwar Here!</h1>
 
 ###
 
-<h3 align="center">BTech IT Undergraduate 🎓</h3>
+<h2 align="center">BTech IT Undergraduate 🎓</h2>
 
 ###
 
@@ -12,7 +12,7 @@
 
 ###
 
-<h3 align="center">💻 Tech Stack</h3>
+<h2 align="center">💻 Tech Stack</h2>
 
 ###
 
@@ -54,7 +54,7 @@
 
 ###
 
-<h3 align="center">💫 My Socials 💫</h3>
+<h2 align="center">💫 My Socials 💫</h2>
 
 ###
 
