@@ -1,4 +1,5 @@
-<h1 align="center">Hey There! 👋 Ashish Dhiwar Here! <br><br> BTech IT Undergraduate 🎓 </h1>
+<h1 align="center">Hey There! 👋 Ashish Dhiwar Here!  </h1>
+<h1 align="center"> BTech IT Undergraduate 🎓</h1>
 
 ###
 
