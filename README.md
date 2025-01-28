@@ -18,7 +18,7 @@
 ###
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,redux,nodejs,express,tailwind,c,cpp,py,mongodb,postgres,postman,git,github,arduino,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,redux,nodejs,express,tailwind,c,cpp,py,mongodb,postgres,postman,git,github,arduino,figma,htmx)](https://skillicons.dev)
 
 
 ###
